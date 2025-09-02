@@ -17,4 +17,3 @@ This project analyzes correlations among applicant data variables and performs c
 4. Cluster Averages
 5. Analysis of Prakerja Program Impact on Unemployment
 6. Manual Data Input
-<img width="967" height="306" alt="image" src="https://github.com/user-attachments/assets/7d2b7a14-f542-4990-82f4-e6721613fc31" />
